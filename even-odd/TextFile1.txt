@@ -1,0 +1,4 @@
+﻿1.Read the number.
+2.Verify if the number is an integer.
+3.The number is even if the remainder when divided by two is zero; if not, it is odd.
+4.Print the result
