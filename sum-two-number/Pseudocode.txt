@@ -1,0 +1,6 @@
+﻿1.Read number 1.
+2.Verify if the number read is a number.
+3.Read number 2.
+4.Verify if the number read is a number.
+5.Sum number 1 and number 2.
+6.Print the result.
