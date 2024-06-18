@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "even-odd", "even-odd\even-odd.csproj", "{718EF09F-2A15-4E05-93ED-0EF806C43A7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum-two-number", "sum-two-number\sum-two-number.csproj", "{E81CFDBF-2E31-42E7-A651-FB6027843A31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sum-two-number", "sum-two-number\sum-two-number.csproj", "{E81CFDBF-2E31-42E7-A651-FB6027843A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numerical-operations", "numerical-operations\numerical-operations.csproj", "{599566F0-B05F-4D1C-939B-F8A54A095F0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E81CFDBF-2E31-42E7-A651-FB6027843A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E81CFDBF-2E31-42E7-A651-FB6027843A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E81CFDBF-2E31-42E7-A651-FB6027843A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599566F0-B05F-4D1C-939B-F8A54A095F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599566F0-B05F-4D1C-939B-F8A54A095F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599566F0-B05F-4D1C-939B-F8A54A095F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599566F0-B05F-4D1C-939B-F8A54A095F0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
