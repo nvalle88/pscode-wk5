@@ -1,0 +1,54 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+1.Read number 1.
+2.Verify if the number read is a number.
+3.Read number 2.
+4.Verify if the number read is a number.
+5.Sum number 1 and number 2.
+6.Print the result.
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+1.Read the number.
+2.Verify if the number is an integer.
+3.The number is even if the remainder when divided by two is zero; if not, it is odd.
+4.Print the result
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Bubble sort.
+n=5;
+1.Read the number of numbers to evaluate, "n".
+2.Iterate from 0 to "n" for the number of inputs in step 1.
+	2.1 Verify if it is an integer.
+	2.2 If it is an integer, add it to a list.
+	2.3 If it is not an integer, try again and repeat step 2.1.
+3.Calculate the average: Sum all numbers in the list and divide by the number of elements in the list.
+4.Sort using the bubble sort method.
+	4.0 Outer loop: Iterate through all elements of the list from 0 to n.
+	4.1 Inner loop: Iterate through the list from j=0 to the number of elements in the list "n" minus the current outer loop cycle number "i" minus one.
+		4.1.1 Compare the current element with the next element in the list.
+		4.1.2 If the current element is greater than the next element, swap them.
+	4.3 Perform step 4.1 until the end of the list.
+	4.4 Repeat step 4.0 until the end of the list.
+
+5.Minimum: Take the first element of the list.
+6.Maximum: Take the last element of the list.
+
+-- END --
